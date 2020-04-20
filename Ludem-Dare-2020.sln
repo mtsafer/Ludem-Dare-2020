@@ -1,0 +1,56 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fungus", "Fungus.csproj", "{3C46E0C4-5625-80FA-4926-133420BC5461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{B3E9E5E7-141A-A48F-04B4-5518222B9CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FungusEditor", "FungusEditor.csproj", "{823FEE78-7D02-B4FE-98E5-25182C3F5710}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{EF9056F7-4B94-A3E9-0454-84DB0CDABBC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fungus.FungusLuaEditor", "Fungus.FungusLuaEditor.csproj", "{BCA11D5C-98C9-9574-7654-E557AAEB35AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fungus.LineEndingsEditor", "Fungus.LineEndingsEditor.csproj", "{25864FDC-C3B0-62B6-D952-03A57AFCF006}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fungus.UsfxrEditor", "Fungus.UsfxrEditor.csproj", "{CF331DF9-8D72-47FE-FB5E-4D117E0FCAAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C46E0C4-5625-80FA-4926-133420BC5461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C46E0C4-5625-80FA-4926-133420BC5461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C46E0C4-5625-80FA-4926-133420BC5461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C46E0C4-5625-80FA-4926-133420BC5461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3E9E5E7-141A-A48F-04B4-5518222B9CAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3E9E5E7-141A-A48F-04B4-5518222B9CAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3E9E5E7-141A-A48F-04B4-5518222B9CAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3E9E5E7-141A-A48F-04B4-5518222B9CAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{823FEE78-7D02-B4FE-98E5-25182C3F5710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823FEE78-7D02-B4FE-98E5-25182C3F5710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823FEE78-7D02-B4FE-98E5-25182C3F5710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823FEE78-7D02-B4FE-98E5-25182C3F5710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF9056F7-4B94-A3E9-0454-84DB0CDABBC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9056F7-4B94-A3E9-0454-84DB0CDABBC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9056F7-4B94-A3E9-0454-84DB0CDABBC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9056F7-4B94-A3E9-0454-84DB0CDABBC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA11D5C-98C9-9574-7654-E557AAEB35AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA11D5C-98C9-9574-7654-E557AAEB35AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA11D5C-98C9-9574-7654-E557AAEB35AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA11D5C-98C9-9574-7654-E557AAEB35AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25864FDC-C3B0-62B6-D952-03A57AFCF006}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25864FDC-C3B0-62B6-D952-03A57AFCF006}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25864FDC-C3B0-62B6-D952-03A57AFCF006}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25864FDC-C3B0-62B6-D952-03A57AFCF006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF331DF9-8D72-47FE-FB5E-4D117E0FCAAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF331DF9-8D72-47FE-FB5E-4D117E0FCAAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF331DF9-8D72-47FE-FB5E-4D117E0FCAAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF331DF9-8D72-47FE-FB5E-4D117E0FCAAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
